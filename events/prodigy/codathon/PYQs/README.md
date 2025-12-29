@@ -23,4 +23,4 @@ The conceptual inspiration for this problem draws from the following talk:
 - *[Projectile Motion (WITH AIR FRICTION)](https://youtu.be/b9S_L1AaJNw)*
 
 ### Closing Note
-This work builds on the philosophy established by earlier Event Heads, especially Karthik, and seeks to carry that legacy forward.
+We want to build on the philosophy established by earlier Event Heads, especially Karthik, and seek to carry that legacy forward this year as well.
