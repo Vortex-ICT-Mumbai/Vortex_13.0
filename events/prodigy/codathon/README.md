@@ -54,9 +54,9 @@ The real outcome is not a rank, but a sharper sense of one’s own problem-solvi
 ## Event Leadership
 
 **Event Heads - Codathon 13.0**
-- [**Arya Rane**](https://github.com/TheAnveshak) - Event Head  
-- **Arjun Rastogi** - Event Head  
-- **Aayush Dongarwar** - Event Head  
+- [**Arya Rane**](https://github.com/TheAnveshak)
+- **Arjun Rastogi**
+- **Aayush Dongarwar**
 
 **Overall Event Head - Prodigy Series**
 - **Prathamesh Herle**
