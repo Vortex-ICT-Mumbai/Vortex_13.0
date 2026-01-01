@@ -12,10 +12,17 @@ Participants are expected to be comfortable treating computation as a **tool for
 
 This includes:
 - Representing information in different forms (numerical, symbolic, encoded, discrete)
-- Understanding how values transform under simple operations
+- Understanding how information changes under simple operations
 - Reasoning about bit-level, digit-level, or representation-level behavior when required
 - Translating verbal or contextual constraints into computable steps
 
+A key skill being tested is the ability to:
+- Read a problem carefully
+- Extract what is relevant
+- Ignore narrative or contextual noise
+- Translate real-world or story-based descriptions into structured reasoning
+
+Participants are expected to make **reasonable assumptions** where needed and remain consistent with them.\
 Problems may allow multiple valid computational paths; no single method is assumed.
 
 ---
@@ -32,6 +39,7 @@ This may involve:
 - Sequential logic
 - Conditional behavior
 - Elimination-based reasoning
+- Identifying constraints and dependencies
 - Consistency checks across multiple conditions
 
 The focus is on **clarity of reasoning**, not speed.
@@ -44,7 +52,7 @@ The mathematical component is **intentionally broad** and non-specialized.
 
 It may draw from:
 - Discrete reasoning
-- Elementary properties of numbers
+- Elementary properties of numbers and relationships
 - Modular or cyclical behavior
 - Growth, accumulation, or iteration
 - Counting under constraints
@@ -61,13 +69,7 @@ Participants should be able to:
 - Break a problem into manageable steps
 - Decide an order of operations
 - Handle edge cases and special conditions
-- Think in terms of procedures, not just answers
-
-Questions may be solvable via:
-- Direct reasoning
-- Step-by-step simulation
-- Incremental construction
-- Repeated refinement
+- Thinking procedurally rather than heuristically
 
 Any clear, correct, and well-structured approach is valid.
 
@@ -89,30 +91,7 @@ The emphasis is on **how you think through code**, not language-specific feature
 
 ---
 
-## 6. Problem Interpretation & Translation
-
-A key skill being tested is the ability to:
-- Read a problem carefully
-- Extract what is relevant
-- Ignore narrative or contextual noise
-- Translate real-world or story-based descriptions into structured reasoning
-
-Participants are expected to make **reasonable assumptions** where needed and remain consistent with them.
-
----
-
-## 7. Multiple Valid Routes
-
-For most problems:
-- There may be more than one correct way to think about the task
-- Different participants may arrive at solutions via different paths
-- Logical, numerical, and computational approaches may coexist
-
-Evaluation is based on **soundness of reasoning**, not adherence to a single method.
-
----
-
-## 8. What Is *Not* Being Tested
+## 6. What Is *Not* Being Tested
 
 Round 1 does **not** aim to test:
 - Memorization of niche formulas
