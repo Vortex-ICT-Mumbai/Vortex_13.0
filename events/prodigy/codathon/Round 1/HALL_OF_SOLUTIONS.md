@@ -17,8 +17,8 @@ for _ in range(20):
 
 ### Solution A
 
-**Author:** Varad G
-**Affiliation:** ICT Mumbai - TYBChemE
+**Author:** Varad G\
+**Affiliation:** ICT Mumbai - TYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -39,8 +39,8 @@ for _ in range(0,10000):
 
 ### Solution A
 
-**Author:** Dhavall Raja
-**Affiliation:** ICT Mumbai - TYBChemE
+**Author:** Dhavall Raja\
+**Affiliation:** ICT Mumbai - TYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -76,8 +76,8 @@ def sqrt_function(x, guess_range, tol = 0.000001):
 
 ### Solution B
 
-**Author:** Varad G
-**Affiliation:** ICT Mumbai - TYBChemE
+**Author:** Varad G\
+**Affiliation:** ICT Mumbai - TYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -100,8 +100,8 @@ for _ in range(0,10000):
 
 ### Solution A
 
-**Author:** Satyamesh Nathu Mali
-**Affiliation:** ICT Mumbai - FYBChemE
+**Author:** Satyamesh Nathu Mali\
+**Affiliation:** ICT Mumbai - FYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -129,8 +129,8 @@ def CalculateDefIntegral(upperlimit,lowerlimit,func):
 
 ## Question 4
 
-**Author:** Dhavall Raja
-**Affiliation:** ICT Mumbai - TYBChemE
+**Author:** Dhavall Raja\
+**Affiliation:** ICT Mumbai - TYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -153,8 +153,8 @@ print('The joke is, \n\n' + Joke)
 
 ## Question 6
 
-**Author:** Karthik Mahadevan
-**Affiliation:** ICT Mumbai - FinYBChemE
+**Author:** Karthik Mahadevan\
+**Affiliation:** ICT Mumbai - FinYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
@@ -184,8 +184,8 @@ plt.grid();
 
 ## Question 6
 
-**Author:** Satyamesh Nathu Mali
-**Affiliation:** ICT Mumbai - FYBChemE
+**Author:** Satyamesh Nathu Mali\
+**Affiliation:** ICT Mumbai - FYBChemE\
 **Language:** Python
 
 **Why this stood out:**  
